@@ -1,0 +1,124 @@
+{
+    "ifadeler": [
+        {
+            "tag": "selamlasma",
+            "patterns": [
+                "merhaba",
+                "hey",
+                "selam",
+                "selamlar"
+            ],
+            "responses": [
+                "Merhaba!",
+                "Selam!",
+                "Merhaba, Sizin icin ne yapabilirim?"
+            ]
+        },
+        {
+            "tag": "nasilsin",
+            "patterns": [
+                "naber?",
+                "nasil gidiyor?",
+                "nasilsin?",
+                "ne var ne yok",
+                "bugun nasilsin?"
+            ],
+            "responses": [
+                "Tesekkur ederim. Size nasil yardimci olabilirim?"
+            ]
+        },
+        {
+            "tag": "vedalasma",
+            "patterns": [
+                "adios amigo",
+                "sonra gorusuruz",
+                "bay bay",
+                "iyi gunler",
+                "gidiyorum",
+                "gorusmek uzere"
+            ],
+            "responses": [
+                "Kendinize iyi bakin!",
+                "Iyi gunler!",
+                "Saglikli Gunler!",
+                "Gorusmek uzere",
+                "Istediginiz her zaman buradayim!"
+            ]
+        },
+        {
+            "tag": "yas",
+            "patterns": [
+                "kac yasindasin",
+                "ne kadar zamandir varsin?",
+                "yas?"
+            ],
+            "responses": [
+                "Uretici firmam Turkcell 28 Subat 1994'den beri en seckin GSM opretorlerinden birisidir! Ben ise 5 Mayis 2024'ten beri hizmetinizdeyim!"
+            ]
+        },
+        {
+            "tag": "Isim",
+            "patterns": [
+                "adin ne?",
+                "sana nasil seslenmeliyim",
+                "kimsin sen",
+                "ismini soyler misin"
+            ],
+            "responses": [
+                "Bana Turkcell Chat-Bot diyebilirsiniz!",
+                "Adim Turkcell Chat-Bot!",
+                "Bana Turkcell Chat-Bot diye seslenebilirsiniz!"
+            ]
+        },
+        {
+            "tag": "fatura_bilgi",
+            "patterns": [
+                "faturam ne kadar?",
+                "bu ayki faturam ne kadar",
+                "fatura detaylari",
+                "fatura fiyati",
+                "fatura tatari"
+            ],
+            "responses": [
+                "Faturaniz 550 Turk Lirasidir! Kullanim detaylariniz su sekildedir: (Burasi icin bir sey bulamadim hocam :D)"
+            ]
+        },
+        {
+            "tag": "son_odeme_tarihi",
+            "patterns": [
+                "fatura kesim tarihi",
+                "faturami ne zaman odeyecegim",
+                "bir sonraki fatura kesimi",
+                "bir sonraki fatura donemi ne zaman baslayacak"
+            ],
+            "responses": [
+                "Faturaniz her ayin 10'undadir!"
+            ]
+        },
+        {
+            "tag": "alisveris",
+            "patterns": [
+                "bir seyler satin almak istiyorum",
+                "urunlerinizden bazilarini sunabilir misin?",
+                "pasajdan alisveris yapmak istiyorum",
+                "benim icin onerebilecehin bir urun var mi?"
+            ],
+            "responses": [
+                "Tabii ki! Sizi hemen Turkcell Pasaj'a yonlendiriyorum. Iyi gunler!",
+                "Turkcell Pasaj uzerinden istediginiz urunlere ulasabilirsiniz!"
+            ]
+        },
+        {
+            "tag": "saat",
+            "patterns": [
+                "calisma saatlerinizi ogrenebilir miyim?",
+                "saat kacta aciksiniz",
+                "saat kaca kadar aciksiniz?",
+                "acik oldugunuz saatler"
+            ],
+            "responses": [
+                "Bayiilerimiz sabah 8 -- aksam 17 arasi aciktir. Ben ise 7/24 hizmetinizdeyim!"
+            ]
+        }
+    ]
+}
